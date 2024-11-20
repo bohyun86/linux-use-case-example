@@ -270,3 +270,14 @@
 - **`ls -m`**: 파일 목록을 쉼표(,)로 구분하여 출력
 - **`ls -l --time-style=long-iso`**: 시간을 YYYY-MM-DD HH:MM 형식으로 출력
 - **`ls -l --time-style=full-iso`**: 시간을 전체 ISO 형식으로 출력
+
+
+----
+
+### nslookup 명령어 
+
+- **`nslookup`**: 도메인 이름에 대한 IP 주소를 확인하는 명령어
+- **`nslookup 도메인명`**: 도메인 이름에 대한 IP 주소 확인
+- **`nslookup IP주소`**: IP 주소에 대한 도메인 이름 확인
+
+
